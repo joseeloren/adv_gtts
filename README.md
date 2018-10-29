@@ -1,4 +1,4 @@
 # adv_gtts
 
-Asco de Vida reader with gTTS (Google Text-to-Speech)
-Lector de Asco de Vida de GTTS
+* Asco de Vida reader with gTTS (Google Text-to-Speech)
+* Lector de Asco de Vida de gTTS (Google Text-to-Speech)
