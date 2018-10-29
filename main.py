@@ -22,4 +22,4 @@ for adv in soup.findAll('a', {"class": "advlink"}):
     music.play()
 
     sleep(music.duration) #prevent from killing
-    os.remove(filename) #remove temperory file
+    os.remove(filename)
